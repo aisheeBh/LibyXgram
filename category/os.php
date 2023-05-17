@@ -16,7 +16,7 @@
         <header class="header">
             <h1><a href="os.php">LibyXgram | Operating Systems</a></h1>
             <div class="search-bar">
-                <input type="text" id="search-input" placeholder="Search for books on Operating Systems...">
+                <input type="text" id="search-input" placeholder="Search for books...">
             </div>
         </header>
 
