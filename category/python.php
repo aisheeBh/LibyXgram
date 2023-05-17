@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <a class="home-button" href="../home/index.php">Home</a>
+    <a class="home-button" href="../index.php">Home</a>
 
     <div class="container">
         <header class="header">

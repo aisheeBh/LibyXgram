@@ -6,11 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LibyXgram | Home</title>
-    <link rel="stylesheet" type="text/css" href="home_styles.css">
+    <link rel="stylesheet" type="text/css" href="home/home_styles.css">
 </head>
 
 <body>
-    <!-- <a class="home-button" href="home.php">Home</a> -->
+    <!-- <a class="home-button" href="index.php">Home</a> -->
 
     <div class="container">
         <header class="header">
