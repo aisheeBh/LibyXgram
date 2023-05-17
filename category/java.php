@@ -16,7 +16,7 @@
         <header class="header">
             <h1><a href="java.php">LibyXgram | Java</a></h1>
             <div class="search-bar">
-                <input type="text" id="search-input" placeholder="Search for categories...">
+                <input type="text" id="search-input" placeholder="Search for books on Java...">
             </div>
         </header>
 
